@@ -231,6 +231,36 @@ p{
     display: block;
     margin: 0 auto;
 }
+}
+.collumn .story{
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    line-height: 36px;
+    /*font-style: italic;*/
+    text-align: center;
+    font-weight: 400;
+    display: block;
+    margin: 40px 0 40px 0;
+    -webkit-font-feature-settings: "liga", "dlig";
+            font-feature-settings: "liga", "dlig";
+
+}
+.collumn .story:before{
+    border-top: 1px solid #2f2f2f;
+    content: '';
+    width: 100px;
+    height: 16px;
+    display: block;
+    margin: 0 auto;
+}
+.collumn .story:after{
+    border-bottom: 1px solid #2f2f2f;
+    content: '';
+    width: 100px;
+    height: 16px;
+    display: block;
+    margin: 0 auto;
+}
 .collumn .figure {
 	  margin: 0 0 20px;
 }
