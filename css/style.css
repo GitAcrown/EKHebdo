@@ -26,11 +26,11 @@ figure.snip1216 {
   min-width: 220px;
   max-width: 310px;
   width: 100%;
-  background-color: #f4f4f4;
-  color: #1a1a1a;
+  background-color: rgba(244, 244, 244, 0.36);
+  color: #ffffff;
   text-align: left;
   font-size: 16px;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 10px rgba(208, 208, 208, 0.23);
 }
 figure.snip1216 * {
   -webkit-box-sizing: border-box;
@@ -52,7 +52,7 @@ figure.snip1216 figcaption {
   position: relative;
 }
 figure.snip1216 .date {
-  background-color: #f47d4a;
+  background-color: rgba(0, 0, 0, 0.47);
   top: 25px;
   color: #f4f4f4;
   left: 25px;
