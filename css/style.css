@@ -30,7 +30,7 @@ figure.snip1216 {
   color: #ffffff;
   text-align: left;
   font-size: 16px;
-  box-shadow: 0 0 10px rgba(208, 208, 208, 0.23);
+  box-shadow: 0 0 5px rgba(27, 27, 27, 0.13);
 }
 figure.snip1216 * {
   -webkit-box-sizing: border-box;
