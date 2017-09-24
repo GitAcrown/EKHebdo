@@ -245,22 +245,7 @@ p{
             font-feature-settings: "liga", "dlig";
 
 }
-.collumn .story:before{
-    border-top: 1px solid #2f2f2f;
-    content: '';
-    width: 100px;
-    height: 16px;
-    display: block;
-    margin: 0 auto;
-}
-.collumn .story:after{
-    border-bottom: 1px solid #2f2f2f;
-    content: '';
-    width: 100px;
-    height: 16px;
-    display: block;
-    margin: 0 auto;
-}
+
 .collumn .figure {
 	  margin: 0 0 20px;
 }
